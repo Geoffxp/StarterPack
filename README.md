@@ -16,7 +16,7 @@ On linux press crtl+alt+t and the terminal should pop up. On Mac press cmd+space
 
 2. cd
 
-- This is the command to change the directory that you are currently in (cd = change directory). To do anything in relation to your current position you start with './'. If your current directory contains a file named 'Desktop' to move into it you would type 'cd ./Desktop' and press enter. You will now see that your position have updated on the left of your cursor. In order to move back out of the file you would type 'cd ../'.
+- This is the command to change the directory that you are currently in (cd = change directory). To do anything in relation to your current position you start with './'. If your current directory contains a folder named 'Desktop' to move into it you would type 'cd ./Desktop' and press enter. You will now see that your position have updated on the left of your cursor. In order to move back out of the file you would type 'cd ../'.
 
 3. mkdir
 
