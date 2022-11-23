@@ -157,7 +157,7 @@ followed by 'cd StarterPack' and then 'npm install'
 
 Once that's finished run 'npm start', open up your web browser, and go to 'http://localhost:3000'
 
-You now have the project up and running and you are in the project directory. You can see all the files with 'ls' and you can edit them with your favorite text editor (I recommend sublime on linux and vscode on everything else). You can also just edit the files with linux's built in text editor nano.
+You now have the project up and running and you are in the project directory. You can see all the files with 'ls' and you can edit them with your favorite text editor (I recommend sublime on linux and vscode on everything else). You can also just edit the files with linux's built in text editor nano. To stop the server press ctrl+c in your terminal. To start again, run 'npm start' (make sure you are in the project folder in your terminal)
 
 To edit a file run the command 'nano filename'. For example in this project you can run 'nano index.html'. To save a file press ctrl+X, then press y, then enter.
 
