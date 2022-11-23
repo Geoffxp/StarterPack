@@ -150,7 +150,7 @@ You may need to look into personal access tokens for this next part, just google
 3. Open up you terminal, create a folder to hold your projects, and then navigate into it. 
 For example 'mkdir projects' then 'cd projects'
 
-Then run 'git clone boilerplatelink'
+Then run 'git clone https://github.com/Geoffxp/StarterPack.git'
 followed by 'cd boilerplate' and then 'npm install'
 
 (if it asks you for you username and password use your github username, press enter, then paste in the personal access token and press enter again. You wont see the token paste but it will be there.)
