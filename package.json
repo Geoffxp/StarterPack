@@ -1,0 +1,16 @@
+{
+  "name": "introductions",
+  "version": "1.0.0",
+  "description": "Hello world! Thanks for checking out this little introductory series on web development. This guide will walk you through some very basic concepts that are the building blocks for all things internet, from markup and css, to JavaScript and nodejs. By the end of this guide you should be able to develop web apps on your local machine and even publish sites online through hosting platforms such as Heroku and Netlify. Let's get into it!",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
