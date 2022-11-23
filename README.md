@@ -159,7 +159,9 @@ Once that's finished run 'npm start', open up your web browser, and go to 'http:
 
 You now have the project up and running and you are in the project directory. You can see all the files with 'ls' and you can edit them with your favorite text editor (I recommend sublime on linux and vscode on everything else). You can also just edit the files with linux's built in text editor nano.
 
-To edit a file run the command 'nano filename'. For example in this project you can run 'nano index.html'. To save a file press ctrl+X, then press y, then enter. 
+To edit a file run the command 'nano filename'. For example in this project you can run 'nano index.html'. To save a file press ctrl+X, then press y, then enter.
+
+You'll need to refresh your browser each time you make changes to see them take effect.
 
 4. Now it's time to turn this simple page into your own portfolio website!
 
