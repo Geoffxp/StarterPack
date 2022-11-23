@@ -143,11 +143,13 @@ close your terminal and open again (you may need to restart your computer) and t
 
 The last two commands just confirm that it installed correctly. You should see something like 'v18.12.1'.
 
-2. Make a github account - [github]("https://github.com")
+2. Run 'git -v' to make sure git is initialized on your machine. You should see a version number like before.
+
+3. Make a github account - [github]("https://github.com")
 
 You may need to look into personal access tokens for this next part, just google it and when you make one save in a text file somewhere as you'll need it in the future as well.
 
-3. Open up you terminal, create a folder to hold your projects, and then navigate into it. 
+4. Open up you terminal, create a folder to hold your projects, and then navigate into it. 
 For example 'mkdir projects' then 'cd projects'
 
 Then run 'git clone https://github.com/Geoffxp/StarterPack.git'
@@ -159,11 +161,13 @@ Once that's finished run 'npm start', open up your web browser, and go to 'http:
 
 You now have the project up and running and you are in the project directory. You can see all the files with 'ls' and you can edit them with your favorite text editor (I recommend sublime on linux and vscode on everything else). You can also just edit the files with linux's built in text editor nano. To stop the server press ctrl+c in your terminal. To start again, run 'npm start' (make sure you are in the project folder in your terminal)
 
+You'll need to keep that terminal open and running the server. So to edit files open up another terminal window and navgate back to projects/StarterPack (or whereever you stored you project).
+
 To edit a file run the command 'nano filename'. For example in this project you can run 'nano index.html'. To save a file press ctrl+X, then press y, then enter.
 
 You'll need to refresh your browser each time you make changes to see them take effect.
 
-4. Now it's time to turn this simple page into your own portfolio website!
+5. Now it's time to turn this simple page into your own portfolio website!
 
 You will probably have to use a lot of google but that's what 90% of web development is lol.
 Here's a list of things to add:
